@@ -1,0 +1,4 @@
+- Fix title styles
+- Add cropping interface
+- Add upload endpoints
+  -Add auth
